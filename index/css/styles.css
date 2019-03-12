@@ -206,4 +206,5 @@ html {
   text-align:center;
   line-height:50px;
   border-radius: 20px;
+  position: absolute; left: 23%;
 }
