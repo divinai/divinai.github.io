@@ -28,6 +28,9 @@
 	--------------------------------- */
 
 	.right-section{ float: none; width: 100%; height: 50%; }
+	.right-section .logo {position: absolute; top: 20px; height: 40px; left:9%;}
+	.right-section .logo2 {position: absolute; top: 70px; height: 40px; left:9%;}
+	.right-section .logo3 {position: absolute; top: 70px; height: 40px; left:35%;}
 	
 	.right-section .main-content{ padding: 40px 0; }
 	
@@ -89,6 +92,11 @@
 	#normal-countdown .time-sec{ height: 100px; width: 100px; margin: 5%; }
 	
 	#normal-countdown .time-sec .main-time{ line-height: 80px; }
+
+	.button {
+  
+  		padding: 0px 0px;
+  	}
 	
 	
 	/* ---------------------------------
